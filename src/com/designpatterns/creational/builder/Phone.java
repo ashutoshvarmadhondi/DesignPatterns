@@ -1,4 +1,4 @@
-package com.designpatterns.builder;
+package com.designpatterns.creational.builder;
 
 public class Phone {
     private String os;

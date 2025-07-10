@@ -1,4 +1,4 @@
-package com.designpatterns.factory.phone;
+package com.designpatterns.creational.factory.phone;
 
 public class OSFactory {
     public OS getInstance(String str) {

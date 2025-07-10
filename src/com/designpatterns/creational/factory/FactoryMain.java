@@ -1,7 +1,7 @@
-package com.designpatterns.factory;
+package com.designpatterns.creational.factory;
 
-import com.designpatterns.factory.phone.OS;
-import com.designpatterns.factory.phone.OSFactory;
+import com.designpatterns.creational.factory.phone.OS;
+import com.designpatterns.creational.factory.phone.OSFactory;
 
 public class FactoryMain {
     public static void main(String[] args) {
